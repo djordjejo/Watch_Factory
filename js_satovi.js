@@ -1,0 +1,1 @@
+document.alert("Da li zaista zelite da udjete na ovaj sajt")

@@ -1,0 +1,43 @@
+.naslov{
+  height: 130px;
+  background-color: blanchedalmond;
+
+}
+.naslov .prva_slika{
+  margin-top: 20px;
+}
+.naslov .prva_slika :hover{
+  transition: 0.3s;
+  margin-top: -20px;
+  cursor: pointer;
+}
+.naslov .druga_slika{
+  margin-top: 20px;
+}
+.naslov .druga_slika .meni {
+  margin-left: 17px;
+  color: black;
+  margin-top: 7px;
+  word-spacing: 15px;
+  font-size: 13px;
+}
+.naslov .druga_slika .meni a {
+  color: black;
+}
+.naslov .druga_slika .meni :hover{
+  color: aqua;
+}
+.naslov .treca_slika {
+  margin-top: 20px;
+  margin-left: 310px;
+  word-spacing: 7px;
+  
+}
+
+.naslov .treca_slika :hover{
+ 
+  cursor: pointer;
+  transition: 0.3s;
+  margin-top: -20px;
+
+}
