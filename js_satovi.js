@@ -1,0 +1,1 @@
+window.alert('da li ste sigurni da zelite da pristupite ovom sajtu'>
